@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: k0ute6ury-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/k0ute6ury-go
